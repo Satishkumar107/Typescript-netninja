@@ -7,7 +7,7 @@ names.push("guru");
 console.log(names);
 // we want to push different types in the aray but it will not permit to push and
 // it will give an error
-// Array.push(20);  // it will not compile in diiferent types
+// names.push(20);  // it will not compile in diiferent types
 // console.log(names);
 var numbers = [20, 30, 40, 90];
 numbers.push(50);
